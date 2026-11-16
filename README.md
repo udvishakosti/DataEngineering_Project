@@ -262,23 +262,16 @@ Hospital-Billing-Analytics/
 │
 ├── README.md
 │
-├── data/
-│   └── hospital_billing.csv
+├── data: hospital_billing.csv
 │
-├── bronze/
-│   └── bronze_transformation.sql
+├── bronze:  bronze_transformation.sql
 │
-├── silver/
-│   └── silver_transformation.sql
+├── silver: silver_transformation.sql
 │
-├── gold/
-│   └── G_transformation.sql
+├── gold: G_transformation.sql
 │
-├── dashboard/
-│   └── dashboard_pdf
-│
-└── documentation/
-    └── project_architecture.png
+├── dashboard: dashboard_pdf
+
 
 
 ## Key Learnings
