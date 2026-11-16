@@ -258,18 +258,12 @@ The dashboard helps users understand hospital revenue, branch performance, payer
 ## Project Structure
 
 
-Hospital-Billing-Analytics/
-│
+Hospital-Billing-Analytics
 ├── README.md
-│
 ├── data: hospital_billing.csv
-│
 ├── bronze:  bronze_transformation.sql
-│
 ├── silver: silver_transformation.sql
-│
 ├── gold: G_transformation.sql
-│
 ├── dashboard: dashboard_pdf
 
 
